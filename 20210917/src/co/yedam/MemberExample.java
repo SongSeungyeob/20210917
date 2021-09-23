@@ -27,5 +27,9 @@ public class MemberExample
 		for(Member M : Members) {
 			M.showInfo();
 		}
+	
+		Student S1 = new Student();
+		S1.Name = "Hong";
+		
 	}
 }

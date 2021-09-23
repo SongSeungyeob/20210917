@@ -8,7 +8,7 @@ public class Member
 	private String Name;
 	private String Address;
 	
-	/* 생성자 : 필드에 값을 초기화. */
+	/* 생성자 : 필드 값을 초기화. */
 	public Member() {
 		Member_ID = "user1";
 		Name = "박지원";
